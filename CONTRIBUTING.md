@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/contributing.svg" alt="Contributing" width="400" />
+  <img src="/assets/contributing.svg" alt="Contributing" width="400" />
   <p align="center">
     Thank you for considering contributing to the Nodeal ecosystem! <br />
     It's people like you that make our projects great.
@@ -18,9 +18,9 @@
 
 By participating in our projects, you agree to abide by our Code of Conduct and the [Nodeal Public License (NPL)](LICENSE).
 
-## <img src="./assets/icons/lightbulb.svg" width="28" height="28" align="top" /> How Can I Contribute?
+## <img src="/assets/icons/lightbulb.svg" width="28" height="28" align="top" /> How Can I Contribute?
 
-### <img src="./assets/icons/bug.svg" width="28" height="28" align="top" /> **Reporting Bugs**
+### <img src="/assets/icons/bug.svg" width="28" height="28" align="top" /> **Reporting Bugs**
 
 Bugs are tracked as **GitHub issues** on the respective repository. When you are creating a bug report, please include as many details as possible:
 
@@ -29,7 +29,7 @@ Bugs are tracked as **GitHub issues** on the respective repository. When you are
 - **Specific Examples:** Provide specific examples (code snippets, screenshots) to demonstrate the steps.
 - **Expected Behavior:** Describe the behavior you observed and what behavior you expected to see instead.
 
-### <img src="./assets/icons/sparkles.svg" width="28" height="28" align="top" /> **Suggesting Enhancements**
+### <img src="/assets/icons/sparkles.svg" width="28" height="28" align="top" /> **Suggesting Enhancements**
 
 Enhancement suggestions are also tracked as **GitHub issues** on the respective repository.
 
@@ -37,7 +37,7 @@ Enhancement suggestions are also tracked as **GitHub issues** on the respective 
 - **Step-by-step Description:** Provide a detailed description of the suggested enhancement.
 - **Use Case:** Explain why this enhancement would be useful for the ecosystem.
 
-### <img src="./assets/icons/git-pull-request.svg" width="28" height="28" align="top" /> **Pull Requests**
+### <img src="/assets/icons/git-pull-request.svg" width="28" height="28" align="top" /> **Pull Requests**
 
 We actively welcome your pull requests! To submit one, please follow these steps:
 
@@ -49,7 +49,7 @@ We actively welcome your pull requests! To submit one, please follow these steps
 
 <br />
 
-## <img src="./assets/icons/wrench.svg" width="28" height="28" align="top" /> Code Guidelines
+## <img src="/assets/icons/wrench.svg" width="28" height="28" align="top" /> Code Guidelines
 
 As we maintain various projects (e.g., Roblox frameworks, web services, documentation), code guidelines vary by repository. Please refer to the specific repository's documentation or existing codebase for language-specific standards. 
 
@@ -60,13 +60,14 @@ Generally, we expect:
 
 <br />
 
-## <img src="./assets/icons/scale.svg" width="28" height="28" align="top" /> Licensing
+## <img src="/assets/icons/scale.svg" width="28" height="28" align="top" /> Licensing
 
 By contributing to any Nodeal project, you agree that your contributions will be licensed under the **[Nodeal Public License (NPL)](LICENSE)**.
 
 ---
 <div align="center">
   <p>
-    Built with <img src="./assets/icons/heart.svg" width="16" height="16" /> by <a href="https://github.com/furymob-git"><b>FURYMOB</b></a> and the <b>Nodeal Community</b>
+    Built with <img src="/assets/icons/heart.svg" width="16" height="16" /> by <a href="https://github.com/furymob-git"><b>FURYMOB</b></a> and the <b>Nodeal Community</b>
   </p>
 </div>
+

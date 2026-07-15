@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/code_of_conduct.svg" alt="Code of Conduct" width="500" />
+  <img src="/assets/code_of_conduct.svg" alt="Code of Conduct" width="500" />
   
   <p align="center">
     Our pledge to maintain a welcoming, inclusive, and harassment-free community.
@@ -14,13 +14,13 @@
 
 ---
 
-## <img src="./assets/icons/heart-handshake.svg" width="28" height="28" align="top" /> **Our Pledge**
+## <img src="/assets/icons/heart-handshake.svg" width="28" height="28" align="top" /> **Our Pledge**
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-## <img src="./assets/icons/users.svg" width="28" height="28" align="top" /> **Our Standards**
+## <img src="/assets/icons/users.svg" width="28" height="28" align="top" /> **Our Standards**
 
 Examples of behavior that contributes to a positive environment for our community include:
 
@@ -40,7 +40,7 @@ Examples of unacceptable behavior include:
 
 <br />
 
-## <img src="./assets/icons/flag.svg" width="28" height="28" align="top" /> **Enforcement**
+## <img src="/assets/icons/flag.svg" width="28" height="28" align="top" /> **Enforcement**
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at **furymob@nodeal.dev** or through direct messaging on Discord. All complaints will be reviewed and investigated promptly and fairly.
 
@@ -49,6 +49,7 @@ All community leaders are obligated to respect the privacy and security of the r
 ---
 <div align="center">
   <p>
-    Built with <img src="./assets/icons/heart.svg" width="16" height="16" /> by <a href="https://github.com/furymob-git"><b>FURYMOB</b></a> and the <b>Nodeal Community</b>
+    Built with <img src="/assets/icons/heart.svg" width="16" height="16" /> by <a href="https://github.com/furymob-git"><b>FURYMOB</b></a> and the <b>Nodeal Community</b>
   </p>
 </div>
+
