@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="-5 -10.5 34 34">
+  <defs>
+    <style>
+      @keyframes beat {
+        0%   { transform: scale(1); }
+        10%  { transform: scale(1.08); }
+        20%  { transform: scale(1); }
+        30%  { transform: scale(1.08); }
+        40%  { transform: scale(1); }
+        100% { transform: scale(1); }
+      }
+      .heart {
+        transform-origin: 12px 12px;
+        animation: beat 1.5s ease-in-out infinite;
+      }
+    </style>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#bd9fff" />
+      <stop offset="50%" stop-color="#a259ff" />
+      <stop offset="100%" stop-color="#ee9aff" />
+    </linearGradient>
+    <mask id="m">
+      <g class="heart" fill="none" stroke="white" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5" />
+      </g>
+    </mask>
+  </defs>
+  <rect x="-10" y="-10" width="48" height="48" fill="url(#g)" mask="url(#m)" />
+</svg>
