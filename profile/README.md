@@ -51,12 +51,14 @@ The Nodeal ecosystem is split into several modular repositories. Here are the co
         <h3><img src="/assets/icons/plug.svg" width="24" height="24" align="top" /> Nodeal Plugin</h3>
       </a>
       <p>The official Roblox Studio plugin that parses your codebase, provides autocompletion, and extracts vital metadata for the runtime.</p>
+      <a href="https://github.com/nodeal-framework/nodeal-plugin"><img src="/assets/icons/btn-view.svg" alt="View Repository" /></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/nodeal-framework/nodeal-runtime">
         <h3><img src="/assets/icons/cpu.svg" width="24" height="24" align="top" /> Nodeal Runtime</h3>
       </a>
       <p>The core engine that utilizes the extracted data to seamlessly handle execution, dependency resolution, and decorators.</p>
+      <a href="https://github.com/nodeal-framework/nodeal-runtime"><img src="/assets/icons/btn-view.svg" alt="View Repository" /></a>
     </td>
   </tr>
 </table>

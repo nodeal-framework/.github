@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="32" viewBox="0 0 152 32">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#af7cff" />
+      <stop offset="50%" stop-color="#a259ff" />
+      <stop offset="100%" stop-color="#c879ff" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="152" height="32" rx="16" fill="url(#g)" />
+  
+  <text x="65" y="20.5" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="0.2">View Repository</text>
+  
+  <g transform="translate(122, 6) scale(0.85)">
+    <path d="M5 12h14 M12 5l7 7l-7 7" fill="none" stroke="#ffffff" stroke-width="2.35" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>
