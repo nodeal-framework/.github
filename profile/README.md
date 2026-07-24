@@ -30,6 +30,37 @@ Nodeal isn't just a standard library; it's a foundational ecosystem for Roblox S
 - **Passive Security:** Nodeal naturally slows down reverse engineering and shields your game logic from exploiters with secure, deterministic in-memory loading.
 - **Package Ecosystem:** Designed to support a rich, community-driven ecosystem where extensions and services can be shared instantly.
 
+## <img src="/assets/icons/rocket.svg" width="28" height="28" align="top" /> Quick Start
+
+To start using Nodeal in your Roblox Studio projects:
+
+1. **Get the Plugin:** Download and install the [Nodeal Plugin](https://www.nodeal.dev/get-nodeal) from GitHub or the Roblox Creator Store.
+2. **Initialize:** Open Roblox Studio, navigate to the Nodeal plugin tab, and click **Initialize Nodeal**. This will set up the core framework in your place.
+3. **Write Code:** Create your first module and use Nodeal decorators to easily inject behaviors.
+
+> 📚 For a comprehensive step-by-step guide, check out our [Official Documentation](https://www.nodeal.dev/docs).
+
+## <img src="/assets/icons/package.svg" width="28" height="28" align="top" /> Repositories
+
+The Nodeal ecosystem is split into several modular repositories. Here are the core projects you should know about:
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nodeal-framework/nodeal-plugin">
+        <h3><img src="/assets/icons/plug.svg" width="24" height="24" align="top" /> Nodeal Plugin</h3>
+      </a>
+      <p>The official Roblox Studio plugin that parses your codebase, provides autocompletion, and extracts vital metadata for the runtime.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nodeal-framework/nodeal-runtime">
+        <h3><img src="/assets/icons/cpu.svg" width="24" height="24" align="top" /> Nodeal Runtime</h3>
+      </a>
+      <p>The core engine that utilizes the extracted data to seamlessly handle execution, dependency resolution, and decorators.</p>
+    </td>
+  </tr>
+</table>
+
 ## <img src="/assets/icons/handshake.svg" width="28" height="28" align="top" /> Contributing
 
 Nodeal is an open ecosystem driven by its community. There are many ways you can help:
@@ -47,9 +78,6 @@ Nodeal is **free and forever**. The continuous development of this framework is 
   <a href="https://ko-fi.com/getnodeal">
     <img src="https://api.nodeal.dev/v1/kofi/donators.svg" alt="Recent Donators" />
   </a>
-
-  <br /><br />
-
   <h3><img src="/assets/icons/gem.svg" width="24" height="24" align="top" /> Monthly Subscribers</h3>
   <a href="https://ko-fi.com/getnodeal">
     <img src="https://api.nodeal.dev/v1/kofi/subscribers.svg" alt="Monthly Subscribers" />
